@@ -5,8 +5,10 @@
 ## 1. Integrantes
 
 <!-- COMPLETAR: nombres y correos de los integrantes del grupo -->
-- Integrante 1: `NOMBRE — correo@pucv.cl`
-- Integrante 2: `NOMBRE — correo@pucv.cl`
+- Integrante 1: `ESTEBAN SCHANZCHE — correo@pucv.cl`
+- Integrante 2: `EVA PONCE — eva.ponce@pucv.cl`
+- Integrante 3: `NICOLÁS FUENTES — nicolas.fuentes@pucv.cl`
+- Integrante 4: `JUAN GERALDO — juan.geraldo@pucv.cl`
 
 ## 2. Línea seleccionada
 
